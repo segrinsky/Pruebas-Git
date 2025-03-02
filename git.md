@@ -115,4 +115,5 @@ alguien modifica el main
 - Branch locales: main(1119b75,1), patronDecorator, lc/git-example(066b656,1'')
 
 
-Esto simplemente es una prueba de merge
+Esto simplemente es una prueba de merge 
+
